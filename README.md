@@ -1,6 +1,6 @@
 Food Talks
 
-We have built a food talk app. Here users can create their accounts using the register portal and that information is saved. Using login users can login into their accounts and create posts. Posts include adding pictures, reviews of their restaurants, location. These posts are also saved and can be viewed by other users. Users can also comment on other posts. Users have a bio on their profile which can be changed to anything and any amount of times. Users can also delete their posts. It's an interactive app focused for university students to identify the best and affordable food eating spots on campus and using the comment options interact as well. Users also have the option to filter the data (projection) and search for restaurants that are given a good rating.
+This is a  food talk app. Here users can create their accounts using the register portal and that information is saved. Using login users can login into their accounts and create posts. Posts include adding pictures, reviews of their restaurants, location. These posts are also saved and can be viewed by other users. Users can also comment on other posts. Users have a bio on their profile which can be changed to anything and any amount of times. Users can also delete their posts. It's an interactive app focused for university students to identify the best and affordable food eating spots on campus and using the comment options interact as well. Users also have the option to filter the data (projection) and search for restaurants that are given a good rating.
 
 
 
