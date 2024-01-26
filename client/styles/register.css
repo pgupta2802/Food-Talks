@@ -1,0 +1,55 @@
+/**
+ * The following CSS is adapted from Bootstrap's Signin example:
+ * https://getbootstrap.com/docs/4.0/examples/sign-in/
+ */
+
+ body {
+    background-color: #fff;
+  }
+  
+  .registration-area {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-register {
+    margin-top: 15px;
+  }
+  
+  .form-row {
+    display: flex;
+    margin-bottom: 15px;
+  }
+  
+  .form-row label {
+    margin-right: 10px;
+    flex: 1;
+  }
+  
+  .form-row input {
+    flex: 2;
+  }
+  
+  .btn-signup {
+    background-color: #23AF00;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-signup:hover {
+    background-color: #1e9500;
+  }
+  
+  .text-center {
+    text-align: center;
+    font-weight: bold;
+  }
+  

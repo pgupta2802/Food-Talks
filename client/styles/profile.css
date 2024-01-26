@@ -1,0 +1,140 @@
+/* Navbar Styling */
+.navbar {
+<<<<<<< HEAD:client/profile.css
+    background-color: #FFFFFF; 
+=======
+    background-color: #FFFFFF; /* Background color matching the image */
+>>>>>>> 839e097210e790bacdef1e5c22af1d7b21b7b954:client/style/profile.css
+}
+
+.navbar-nav a {
+    color: #1E2125;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #FFFFFF;
+<<<<<<< HEAD:client/profile.css
+    background-color: #23AF00; 
+    border-radius: 5px; 
+=======
+    background-color: #23AF00; /* Add background color on hover */
+    border-radius: 5px; /* Add rounded corners */
+>>>>>>> 839e097210e790bacdef1e5c22af1d7b21b7b954:client/style/profile.css
+}
+
+.navbar-nav .nav-logo:hover {
+    color: #23AF00;
+}
+
+.star-rating {
+    color: #000000;
+}
+
+.profile-container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+.profile-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-info h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.profile-info p {
+    color: #555;
+}
+
+.edit-bio-form {
+    margin-top: 30px;
+}
+
+.edit-bio-form textarea {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.edit-bio-form button {
+    margin-top: 10px;
+    background-color: #23AF00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.edit-bio-form button:hover {
+    background-color: #1E7A00;
+}
+
+/* User's Posts Styling */
+.user-posts {
+    margin-top: 30px;
+}
+
+.user-post {
+    background: #f2f2f2;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.user-post h3 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.user-post p {
+    font-size: 0.9em;
+    line-height: 1.4;
+    color: #555;
+}
+
+.post-date {
+    display: block;
+    font-size: 0.8em;
+    color: #777;
+    margin-top: 10px;
+}
+
+.btn-delete {
+    margin-top: 10px;
+    background-color: #23AF00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-delete:hover {
+    background-color: #1E7A00;
+<<<<<<< HEAD:client/profile.css
+}
+=======
+}
+>>>>>>> 839e097210e790bacdef1e5c22af1d7b21b7b954:client/style/profile.css
